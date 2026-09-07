@@ -8,12 +8,13 @@ O projeto foi criado utilizando HTML, CSS e JavaScript, com o objetivo de desenv
 
 A proposta é apresentar uma experiência visual agradável para os visitantes, destacando os cafés, produtos e informações da cafeteria.
 
-### 🚀 Tecnologias utilizadas
-🟧 HTML5 — Estrutura da página
-🟦 CSS3 — Estilização e responsividade
-🟨 JavaScript — Interatividade e funcionalidades
+## 🚀 Tecnologias utilizadas
 
-📂 Estrutura do projeto
+- HTML5 — Estrutura da página
+- CSS3 — Estilização e responsividade
+- JavaScript — Interatividade e funcionalidades
+
+### Estrutura do projeto
  ┣ Img's
  ┃ ┗ imagens do projeto
  ┣ index.html
@@ -22,18 +23,17 @@ A proposta é apresentar uma experiência visual agradável para os visitantes, 
  ┗ README.md
  
 💻 Como executar o projeto
-Clone este repositório:
-git clone https://github.com/seu-usuario/cafeteria.git
+Clone este repositório: https://github.com/seu-usuario/cafeteria.git
 Abra o arquivo no navegador.
 
 Também é possível utilizar a extensão Live Server no VS Code para visualizar o projeto em tempo real.
 
-### 🎨 Design
+## 🎨 Design
 
 O projeto utiliza uma identidade visual inspirada em cafeterias, com cores e elementos que remetem ao café e proporcionam uma aparência moderna e aconchegante.
 
 
 
-👨‍💻 Desenvolvedor
+## 👨‍💻 Desenvolvedor
 
 Projeto desenvolvido por [Miguel Carneiro].
