@@ -15,17 +15,11 @@ A proposta é apresentar uma experiência visual agradável para os visitantes, 
 - JavaScript — Interatividade e funcionalidades
 
 ### Estrutura do projeto
- ┣ Img's
- 
- ┃ ┗ imagens do projeto
- 
- ┣ index.htm
- 
- ┣ style.css
- 
- ┣ script.js
- 
- ┗ README.md
+> Img's -> pacote de imagens do projeto 
+> index.html
+> style.css
+> script.js
+> README.md
  
 💻 Como executar o projeto
 Clone este repositório: https://github.com/seu-usuario/cafeteria.git
