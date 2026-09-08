@@ -27,6 +27,7 @@ A proposta é apresentar uma experiência visual agradável para os visitantes, 
  
 💻 Como executar o projeto
 Clone este repositório: https://github.com/seu-usuario/cafeteria.git
+
 Abra o arquivo no navegador.
 
 Também é possível utilizar a extensão Live Server no VS Code para visualizar o projeto em tempo real.
