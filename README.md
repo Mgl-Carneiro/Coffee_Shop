@@ -17,7 +17,7 @@ A proposta é apresentar uma experiência visual agradável para os visitantes, 
 ### Estrutura do projeto
  ┣ Img's
  ┃ ┗ imagens do projeto
- ┣ index.html
+ ┣ index.htm
  ┣ style.css
  ┣ script.js
  ┗ README.md
