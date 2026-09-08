@@ -15,10 +15,14 @@ A proposta é apresentar uma experiência visual agradável para os visitantes, 
 - JavaScript — Interatividade e funcionalidades
 
 ### Estrutura do projeto
-> Img's -> pacote de imagens do projeto 
+> Img's -> pacote de imagens do projeto
+> 
 > index.html
+> 
 > style.css
+> 
 > script.js
+> 
 > README.md
  
 💻 Como executar o projeto
